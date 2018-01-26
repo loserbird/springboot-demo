@@ -1,6 +1,8 @@
 *.settings
 *.classpath
 *.project
+*.idea
+*.iml
 /springboot-websocket/target
 /springboot-security/target
 /springboot-batch/target
